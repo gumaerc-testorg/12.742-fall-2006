@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: aea90c21-2574-04ea-4537-949b854172a2
 ---
@@ -360,7 +363,7 @@ KC
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (1)
+Anthropogenic CO{{< sub "2" >}} (1)
 {{< tdclose >}}
 {{< tdopen >}}
 SD
@@ -372,7 +375,7 @@ SD
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (2) and review
+Anthropogenic CO{{< sub "2" >}} (2) and review
 {{< tdclose >}}
 {{< tdopen >}}
 SD

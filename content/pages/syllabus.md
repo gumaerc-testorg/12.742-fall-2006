@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3f4ce8c7-52df-6c56-b30d-d2697b133b44
 ---
@@ -490,7 +492,7 @@ KC
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (1)
+Anthropogenic CO{{< sub "2" >}} (1)
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 9 due
@@ -505,7 +507,7 @@ SD
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (2) and review
+Anthropogenic CO{{< sub "2" >}} (2) and review
 {{< tdclose >}}
 {{< tdopen >}}
  
