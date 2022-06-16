@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides audio recordings of a selection of lecture sessions.
 learning_resource_types:
 - Lecture Audio
 ocw_type: CourseSection

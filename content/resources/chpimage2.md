@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-742-marine-chemistry-fall-2006/95c541b744bdaa66603436915fcc22a6_CHPimage2.gif
+file: /courses/12-742-marine-chemistry-fall-2006/95c541b744bdaa66603436915fcc22a6_CHPimage2.gif
 file_type: image/gif
 image_metadata:
   caption: ''
