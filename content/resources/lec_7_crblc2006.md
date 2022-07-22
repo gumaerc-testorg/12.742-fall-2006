@@ -5,6 +5,7 @@ file: /courses/12-742-marine-chemistry-fall-2006/e6cad12ff6a4a6bf23a646483bb6164
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec_7_crblc2006.pdf
 uid: e6cad12f-f6a4-a6bf-23a6-46483bb6164a
 ---
 This resource gives the inorganic carbon in the oceans.
-

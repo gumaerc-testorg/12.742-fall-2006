@@ -5,6 +5,7 @@ file: /courses/12-742-marine-chemistry-fall-2006/ee26cf87dac404b0afb7ddd1a332bed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec5.pdf
 uid: ee26cf87-dac4-04b0-afb7-ddd1a332bedf
 ---
 This resource contains information about ocean circulation.
-

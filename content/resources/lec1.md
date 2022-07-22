@@ -6,6 +6,7 @@ file: /courses/12-742-marine-chemistry-fall-2006/f29ad06348cb69625f4a7011dffa72f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec1.pdf
 uid: f29ad063-48cb-6962-5f4a-7011dffa72f4
 ---
 This resource contains a lecture about an  overview of the determinants of seawater composition.
-

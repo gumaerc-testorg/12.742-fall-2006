@@ -5,6 +5,7 @@ file: /courses/12-742-marine-chemistry-fall-2006/5cafb7ffbdc9962c602ef05d0e5016f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec_11_gas_exch.pdf
 uid: 5cafb7ff-bdc9-962c-602e-f05d0e5016fe
 ---
 This resource is about dissolved gases and air-sea exchange.
-

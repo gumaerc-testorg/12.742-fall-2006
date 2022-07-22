@@ -5,6 +5,7 @@ file: /courses/12-742-marine-chemistry-fall-2006/daa4b8fc19cc4c093bd0b70486b3cf2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
