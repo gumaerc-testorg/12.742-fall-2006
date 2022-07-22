@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, format,
+  homework, exams, class participation, lecture notes, course reading, and the schedule
+  of lecture topics, lecturers, and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3f4ce8c7-52df-6c56-b30d-d2697b133b44
 ---
@@ -39,7 +44,7 @@ This will count for 10 percent of your grade and will be based on attendance and
 Lecture Notes and Course Reading
 --------------------------------
 
-Electronic copies of the lecture notes will be made available in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section. For those lectures for which we don't yet have electronic versions of the figures, we will distribute photocopies prior to lecture. There will not be any formal reading assignments for the course, but you may find the following books to be good references:
+Electronic copies of the lecture notes will be made available in the {{% resource_link aea90c21-2574-04ea-4537-949b854172a2 "lecture notes" %}} section. For those lectures for which we don't yet have electronic versions of the figures, we will distribute photocopies prior to lecture. There will not be any formal reading assignments for the course, but you may find the following books to be good references:
 
 Pilson, Michael E. Q. _An Introduction to the Chemistry of the Sea_. Upper Saddle River, N.J.: Prentice Hall, 1998. ISBN: 9780132589710.
 
@@ -490,7 +495,7 @@ KC
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (1)
+Anthropogenic CO{{< sub "2" >}} (1)
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 9 due
@@ -505,7 +510,7 @@ SD
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (2) and review
+Anthropogenic CO{{< sub "2" >}} (2) and review
 {{< tdclose >}}
 {{< tdopen >}}
  

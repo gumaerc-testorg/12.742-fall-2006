@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides audio recordings of a selection of lecture sessions.
+learning_resource_types:
+- Lecture Audio
+ocw_type: CourseSection
 title: Audio Lectures
 uid: 6ed025d4-05b5-ee01-079e-e707716b835a
 ---
@@ -204,7 +208,7 @@ DT
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Anthropogenic CO2 (2) and review
+Anthropogenic CO{{< sub "2" >}} (2) and review
 {{< tdclose >}}
 {{< tdopen >}}
 SD
