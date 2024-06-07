@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a lecture on atmospheric circulation and water
   cycle.
 file: /courses/12-742-marine-chemistry-fall-2006/e597f26987cfe640ab81e91e47de253a_lec4.pdf
+file_size: 176221
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

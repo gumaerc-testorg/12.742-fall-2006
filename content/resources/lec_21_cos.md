@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource is about introduction: global biogeochemical cycles.'
 file: /courses/12-742-marine-chemistry-fall-2006/7ee6245865ce3097ff01e8a2fbdba8a0_lec_21_cos.pdf
+file_size: 173044
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
