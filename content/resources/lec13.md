@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about primary production.
 file: /courses/12-742-marine-chemistry-fall-2006/0292daad505dbffc8ec3a9f2a470ef79_lec13.pdf
+file_size: 341495
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about biogenic opal.
 file: /courses/12-742-marine-chemistry-fall-2006/8f6b0eee499db5f5342e4c1a7a0339b5_lec_20_sdmnts_2.pdf
+file_size: 785476
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
