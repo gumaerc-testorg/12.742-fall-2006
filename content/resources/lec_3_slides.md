@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about marine radiochemistry.
 file: /courses/12-742-marine-chemistry-fall-2006/70c21e6cde1688826f3f3e6c46170146_lec_3_slides.pdf
+file_size: 1667987
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

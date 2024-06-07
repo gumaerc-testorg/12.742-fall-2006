@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about atmosphere and ?ocean interactions.
 file: /courses/12-742-marine-chemistry-fall-2006/e7c262eb21f6d4297686814435bae703_lec_12_ocn_at_ed.pdf
+file_size: 842113
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

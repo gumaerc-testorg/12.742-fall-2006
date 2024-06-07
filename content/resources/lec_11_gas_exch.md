@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is about dissolved gases and air-sea exchange.
 file: /courses/12-742-marine-chemistry-fall-2006/5cafb7ffbdc9962c602ef05d0e5016fe_lec_11_gas_exch.pdf
+file_size: 1542350
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
