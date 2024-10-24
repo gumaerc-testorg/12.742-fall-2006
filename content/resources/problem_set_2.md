@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains four problem statements for the course.
-file: /courses/12-742-marine-chemistry-fall-2006/6b8bb244dd81566cb0f71b18bc835590_problem_set_2.pdf
+file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/6b8bb244dd81566cb0f71b18bc835590_problem_set_2.pdf
 file_size: 92383
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives the inorganic carbon in the oceans.
-file: /courses/12-742-marine-chemistry-fall-2006/e6cad12ff6a4a6bf23a646483bb6164a_lec_7_crblc2006.pdf
+file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/e6cad12ff6a4a6bf23a646483bb6164a_lec_7_crblc2006.pdf
 file_size: 580779
 file_type: application/pdf
 learning_resource_types:
