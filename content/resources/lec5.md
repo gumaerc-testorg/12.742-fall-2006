@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about ocean circulation.
-file: /courses/12-742-marine-chemistry-fall-2006/ee26cf87dac404b0afb7ddd1a332bedf_lec5.pdf
+file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/ee26cf87dac404b0afb7ddd1a332bedf_lec5.pdf
 file_size: 272768
 file_type: application/pdf
 learning_resource_types:
