@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about primary production.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/f5fcad0aa61e1c8006b2d244aabc2428_lec14.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/f5fcad0aa61e1c8006b2d244aabc2428_lec14.pdf
 file_size: 250285
 file_type: application/pdf
 learning_resource_types:

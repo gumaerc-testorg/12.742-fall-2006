@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is about marine nitrogen cycle.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/6bd4b3998761ab12e3e335321b5894cc_lec_23_nitrgn.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/6bd4b3998761ab12e3e335321b5894cc_lec_23_nitrgn.pdf
 file_size: 2551297
 file_type: application/pdf
 learning_resource_types:

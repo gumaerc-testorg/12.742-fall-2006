@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about a lecture on sinking particles
   and remineralization.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/2c151f7860e76a19580e89174b42420f_lecture17_18.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/2c151f7860e76a19580e89174b42420f_lecture17_18.pdf
 file_size: 304123
 file_type: application/pdf
 learning_resource_types:
