@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains description of the oceans hydrothermal systems.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/b3ab2a7d63f281cb878a1171faa23864_lec_9_redngs_hyd.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/b3ab2a7d63f281cb878a1171faa23864_lec_9_redngs_hyd.pdf
 file_size: 799256
 file_type: application/pdf
 learning_resource_types:
