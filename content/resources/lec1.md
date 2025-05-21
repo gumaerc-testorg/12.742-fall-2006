@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a lecture about an  overview of the determinants
   of seawater composition.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/f29ad06348cb69625f4a7011dffa72f4_lec1.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/f29ad06348cb69625f4a7011dffa72f4_lec1.pdf
 file_size: 263960
 file_type: application/pdf
 learning_resource_types:

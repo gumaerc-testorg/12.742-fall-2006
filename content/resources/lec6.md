@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about major ions and salinity.
-file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/5adf86c1feb5b85ed6e2fb5581e383d1_lec6.pdf
+file: /courses/12-742-marine-chemistry-fall-2006/5adf86c1feb5b85ed6e2fb5581e383d1_lec6.pdf
 file_size: 243758
 file_type: application/pdf
 learning_resource_types:
