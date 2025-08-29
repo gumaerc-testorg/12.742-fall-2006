@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about a lecture on new, export, and
   net community production.
-file: /courses/12-742-marine-chemistry-fall-2006/6fa0e026369a984d76b5c9b50ab47b5f_lecture15_16.pdf
+file: /ol-ocw-studio-app/courses/12-742-marine-chemistry-fall-2006/6fa0e026369a984d76b5c9b50ab47b5f_lecture15_16.pdf
 file_size: 347735
 file_type: application/pdf
 learning_resource_types:
