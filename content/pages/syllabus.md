@@ -19,7 +19,7 @@ Recitations: 1 session / week, 1 hour / session
 Format
 ------
 
-This course is offered through [The MIT/WHOI Joint Program](http://web.mit.edu/mit-whoi/www/). Lectures were held at WHOI and broadcast via private video link to students on the MIT campus. Recitations were on the MIT campus and broadcast via private video link to students at WHOI.
+This course is offered through {{% resource_link "cef8ccf3-5844-488d-99a1-bc6b14469e31" "The MIT/WHOI Joint Program" %}}. Lectures were held at WHOI and broadcast via private video link to students on the MIT campus. Recitations were on the MIT campus and broadcast via private video link to students at WHOI.
 
 Homework
 --------
